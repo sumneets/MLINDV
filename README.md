@@ -3,7 +3,7 @@ Maze Learning and Individual Differences
 
 # Maze Learning Neural Analysis 
 Head Direction Signals By Researcher: Lily Cheng
-* fMRI Raw Data Folder for MVPA Analysis
+* [fMRI Raw Data Folder for MVPA Analysis](https://github.com/sumneets/MLINDV/blob/main/Neural_Analysis/fMRI)
 * [Atlas Folder](https://github.com/sumneets/MLINDV/blob/main/Neural_Analysis/Atlas)
 * Beta Series Code File
 * Path Direction MVPA Code File
