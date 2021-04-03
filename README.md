@@ -6,7 +6,7 @@ Head Direction Signals By Researcher: Lily Cheng
 * [fMRI Raw Data Folder for MVPA Analysis](https://github.com/sumneets/MLINDV/blob/main/Neural_Analysis/fMRI)
 * [Atlas Folder](https://github.com/sumneets/MLINDV/blob/main/Neural_Analysis/Atlas)
 * [Beta Series Code File](https://github.com/sumneets/MLINDV/blob/main/Neural_Analysis/Beta_Series_Code)
-* Path Direction MVPA Code File
+* [Path Direction MVPA Code File](https://github.com/sumneets/MLINDV/blob/main/Neural_Analysis/Path_Direction_MVPA_Code)
 
 # Maze Learning Behavior
 By Researcher: Lily Cheng
