@@ -9,7 +9,7 @@ Head Direction Signals By Researcher: Lily Cheng
 * [Path Direction MVPA Code File](https://github.com/sumneets/MLINDV/blob/main/Neural_Analysis/Path_Direction_MVPA_Code)
 
 # Maze Learning Behavior
-By Researcher: Lily Cheng
+Researcher: Lily Cheng
 * [Event File Contraction Code](https://github.com/sumneets/MLINDV/blob/main/Behavior/Event_File_Extraction_Code)
 * [Translational Path Direction Extraction Code](https://github.com/sumneets/MLINDV/blob/main/Behavior/Translational_Path_Direction_Extraction_Code)
 * [Translational Path Direction Event File](https://github.com/sumneets/MLINDV/blob/main/Behavior/Translational_Path_Direction_Event_File)
