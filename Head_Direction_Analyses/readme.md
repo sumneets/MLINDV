@@ -8,7 +8,7 @@ Head Direction Signals By Researcher: Lily Cheng
 * [Beta Series Code](https://github.com/sumneets/MLINDV/blob/main/Head_Direction_Analyses/Head_Direction_Neural_Analysis/Beta_Series_Code)
 * [Path Direction MVPA Code](https://github.com/sumneets/MLINDV/blob/main/Head_Direction_Analyses/Head_Direction_Neural_Analysis/Path_Direction_MVPA_Code)
 
-Segmentation By Researcher: Alina Tu and Caitlin
+Segmentation By Researchers: Alina Tu and Caitlin
 * [Verification of Atlas]()
 * [Young Adult Princeton 3T Atlas]()
 * [ASHS Code]()
