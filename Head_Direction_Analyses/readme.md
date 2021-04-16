@@ -7,7 +7,7 @@ Head Direction Signals By Researcher: Lily Cheng
 * [Atlas](https://github.com/sumneets/MLINDV/blob/main/Head_Direction_Analyses/Head_Direction_Neural_Analysis/Atlas)
 * [Beta Series Code](https://github.com/sumneets/MLINDV/blob/main/Head_Direction_Analyses/Head_Direction_Neural_Analysis/Beta_Series_Code)
 * [Path Direction MVPA Code](https://github.com/sumneets/MLINDV/blob/main/Head_Direction_Analyses/Head_Direction_Neural_Analysis/Path_Direction_MVPA_Code)
-
+## Segmentation
 # Maze Learning Behavioral Analysis
 Head Direction Signals By Researcher: Lily Cheng
 * [Event File Extraction Code](https://github.com/sumneets/MLINDV/blob/main/Head_Direction_Analyses/Head_Direction_Behavioral_Analysis/Event_File_Extraction_Code)
