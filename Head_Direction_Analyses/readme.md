@@ -1,9 +1,10 @@
 # Head Direction Signal Analysis
 
 ## Maze Learning Neural Analysis
-* [fMRI Raw Data for MVPA Analysis](https://github.com/sumneets/MLINDV/blob/main/Head_Direction_Analyses/Head_Direction_Neural_Analysis/fMRI_Raw_Data_for_MVPA_Analysis)
-* [Atlas](https://github.com/sumneets/MLINDV/blob/main/Head_Direction_Analyses/Head_Direction_Neural_Analysis/Atlas)
+* [Raw Data for MVPA Analysis](https://github.com/sumneets/MLINDV/blob/main/Head_Direction_Analyses/Head_Direction_Neural_Analysis/Raw_Data_for_MVPA_Analysis)
+* [Atlas Folder](https://github.com/sumneets/MLINDV/blob/main/Head_Direction_Analyses/Head_Direction_Neural_Analysis/Atlas_Folder)
 * [Beta Series Code](https://github.com/sumneets/MLINDV/blob/main/Head_Direction_Analyses/Head_Direction_Neural_Analysis/Beta_Series_Code)
+* [Beta Series Data Folder](https://github.com/sumneets/MLINDV/blob/main/Head_Direction_Analyses/Head_Direction_Neural_Analysis/Beta_Series_Data_Folder)
 * [Path Direction MVPA Code](https://github.com/sumneets/MLINDV/blob/main/Head_Direction_Analyses/Head_Direction_Neural_Analysis/Path_Direction_MVPA_Code)
 
 ## Segmentation 
