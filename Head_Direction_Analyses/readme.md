@@ -6,6 +6,15 @@
 * [Beta Series Code](https://github.com/sumneets/MLINDV/blob/main/Head_Direction_Analyses/Head_Direction_Neural_Analysis/Beta_Series_Code)
 * [Beta Series Data Folder](https://github.com/sumneets/MLINDV/blob/main/Head_Direction_Analyses/Head_Direction_Neural_Analysis/Beta_Series_Data_Folder)
 * [Path Direction MVPA Code](https://github.com/sumneets/MLINDV/blob/main/Head_Direction_Analyses/Head_Direction_Neural_Analysis/Path_Direction_MVPA_Code)
+* [STEP0.Check](https://github.com/sumneets/MLINDV/blob/main/Head_Direction_Analyses/Head_Direction_Neural_Analysis/STEP0_Check)
+* [STEP1 Beta Series Four Directions](https://github.com/sumneets/MLINDV/blob/main/Head_Direction_Analyses/Head_Direction_Neural_Analysis/STEP1_BetaSeries_Four_Directions.ipynb)
+* [STEP1 Beta Series Shorter Versions](https://github.com/sumneets/MLINDV/blob/main/Head_Direction_Analyses/Head_Direction_Neural_Analysis/STEP1_BetaSeries_Shorter_Version.ipynb)
+* [STEP2A MVPA Exploration Subcor](https://github.com/sumneets/MLINDV/blob/main/Head_Direction_Analyses/Head_Direction_Neural_Analysis/STEP2a_MVPA_exploration_subcor.ipynb)
+* [STEP2A MVPA Exploration](https://github.com/sumneets/MLINDV/blob/main/Head_Direction_Analyses/Head_Direction_Neural_Analysis/STEP2a_MVPA_Exploration.ipynb)
+* [STEP2B MVPA Test Subcor](https://github.com/sumneets/MLINDV/blob/main/Head_Direction_Analyses/Head_Direction_Neural_Analysis/STEP2b_MVPA_test_subcor.ipynb)
+* [STEP2B MVPA Test](https://github.com/sumneets/MLINDV/blob/main/Head_Direction_Analyses/Head_Direction_Neural_Analysis/STEP2b_MVPA_Test.ipynb)
+* [STEP2C MVPA All Runs Subcor](https://github.com/sumneets/MLINDV/blob/main/Head_Direction_Analyses/Head_Direction_Neural_Analysis/STEP2c_MVPA_All_Runs_subcor.ipynb)
+* [STEP3 Beta Series Visualization Subcor](https://github.com/sumneets/MLINDV/blob/main/Head_Direction_Analyses/Head_Direction_Neural_Analysis/STEP3_Beta_Series_Visualization_subcor.ipynb)
 
 ## Segmentation 
 * [Verification of Atlas](https://github.com/sumneets/MLINDV/blob/main/Head_Direction_Analyses/Head_Direction_Neural_Analysis/Verification_of_Atlas)
